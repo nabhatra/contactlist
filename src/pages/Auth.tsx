@@ -18,7 +18,7 @@ const initialState = {
 };
 
 const Auth = () => {
-  const [formValue, setFormvalue] = useState(initialState);
+  const [formValue, setFormValue] = useState(initialState);
   const { firstName, lastName, email, password, confirmPassword } = formValue;
   const [showRegister, setShowRegister] = useState(false);
   const dispatch = useAppDispatch();
@@ -44,7 +44,7 @@ const Auth = () => {
   ] = useRegisterUserMutation();
 
   const handleChange = (e: any) => {
-    setFormvalue({ ...formValue, [e.target.name]: e.target.value });
+    setFormValue({ ...formValue, [e.target.name]: e.target.value });
   };
 
   const handleLogin = async () => {
@@ -226,3 +226,4 @@ const Auth = () => {
 };
 
 export default Auth;
+

@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "email": "admin",
+      "password": "password123"
+
+    }
+  ],
+  "contacts": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Bob Johnson",
+      "email": "bob.johnson@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Ella Davis",
+      "email": "ella.davis@example.com"
+    },
+    {
+      "id": 6,
+      "name": "David Wilson",
+      "email": "david.wilson@example.com"
+    },
+    {
+      "id": 7,
+      "name": "Linda Brown",
+      "email": "linda.brown@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Michael Lee",
+      "email": "michael.lee@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Olivia Taylor",
+      "email": "olivia.taylor@example.com"
+    },
+    {
+      "id": 10,
+      "name": "William Johnson",
+      "email": "william.johnson@example.com"
+    },
+    {
+      "id": 11,
+      "name": "Sophia Miller",
+      "email": "sophia.miller@example.com"
+    },
+    {
+      "id": 12,
+      "name": "James Davis",
+      "email": "james.davis@example.com"
+    },
+    {
+      "id": 13,
+      "name": "Emily Smith",
+      "email": "emily.smith@example.com"
+    },
+    {
+      "id": 14,
+      "name": "Daniel Martinez",
+      "email": "daniel.martinez@example.com"
+    },
+    {
+      "id": 15,
+      "name": "Ava Anderson",
+      "email": "ava.anderson@example.com"
+    },
+    {
+      "id": 16,
+      "name": "Joseph Wilson",
+      "email": "joseph.wilson@example.com"
+    },
+    {
+      "id": 17,
+      "name": "Mia Harris",
+      "email": "mia.harris@example.com"
+    },
+    {
+      "id": 18,
+      "name": "Benjamin Clark",
+      "email": "benjamin.clark@example.com"
+    },
+    {
+      "id": 19,
+      "name": "Charlotte Allen",
+      "email": "charlotte.allen@example.com"
+    },
+    {
+      "id": 20,
+      "name": "Mason Turner",
+      "email": "mason.turner@example.com"
+    }
+  ]
+}
