@@ -29,14 +29,14 @@ function App() {
             <Route path="/" element={<Navigate to="/auth" replace />} />
             <Route path="/auth" element={<Auth />} />
             <Route path="/dashboard" element={<Dashboard />} />
-            {/* <Route
+            <Route
               path="/dashboard"
               element={
                 <PrivateRoute>
                   <Dashboard />
                 </PrivateRoute>
               }
-            /> */}
+            />
           </Routes>
         </BrowserRouter>
       </Provider>

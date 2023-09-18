@@ -9,7 +9,7 @@ export const authApi = createApi({
     loginUser: builder.mutation({
       query: (body: { email: string; password: string }) => {
         return {
-          url: "/users/signin",
+          url: "/Dashboard",
           method: "post",
           body,
         };
@@ -33,9 +33,3 @@ export const authApi = createApi({
 });
 
 export const { useLoginUserMutation, useRegisterUserMutation } = authApi;
-
-
-
-
-
-
